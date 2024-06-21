@@ -2,8 +2,8 @@ from pyrogram import filters
 import os
 
 class Config:
-    API_ID = "9181844"
-     API_HASH = "996a3e7194a4f07576fda5c20bb1138b"
+    API_ID = "27798659"
+    API_HASH = "26100c77cee02e5e34b2bbee58440f86"
 
     
      TOKEN = os.environ.get("TOKEN", "7293989365:AAEQdlSr66POVnmWJpewxTGIgL2iZ1iKcpU")
