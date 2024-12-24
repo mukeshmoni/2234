@@ -6,7 +6,7 @@ class Config:
     API_HASH = "26100c77cee02e5e34b2bbee58440f86"
 
      #TOKEN = "6521122303:AAGCO3XMjcA0SN5NAi1M0NpmbmMxEtwwYbg"
-    TOKEN = os.environ.get("TOKEN", "7573604459:AAGwUKl86kOEelpd7H7-oKJE942bRJHEn-I")
-    MONGO_URL = "mongodb+srv://moni:<db_password>@cluster0.cei6n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    TOKEN = os.environ.get("TOKEN", "7573604459:AAGtbbye_5vZJb6Ezimlm-jJIQ2aogOQdEw")
+    MONGO_URL = "mongodb+srv://ChikuAiDb:MysticalDevs@chikuaidb.1pfxx.mongodb.net/?retryWrites=true&w=majority&appName=ChikuAiDB"
     START_PIC = "https://telegra.ph/file/0eba143d65f9413f9ae04.jpg"
     SUDOERS = filters.user(["5444362033"])
