@@ -9,4 +9,4 @@ class Config:
     TOKEN = os.environ.get("TOKEN", "7573604459:AAGtbbye_5vZJb6Ezimlm-jJIQ2aogOQdEw")
     MONGO_URL = "mongodb+srv://ChikuAiDb:MysticalDevs@chikuaidb.1pfxx.mongodb.net/?retryWrites=true&w=majority&appName=ChikuAiDB"
     START_PIC = "https://telegra.ph/file/0eba143d65f9413f9ae04.jpg"
-    SUDOERS = filters.user(["5444362033"])
+    SUDOERS = filters.user(["7290811275"])
