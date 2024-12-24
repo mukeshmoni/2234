@@ -7,6 +7,6 @@ class Config:
 
      #TOKEN = "6521122303:AAGCO3XMjcA0SN5NAi1M0NpmbmMxEtwwYbg"
     TOKEN = os.environ.get("TOKEN", "7573604459:AAGwUKl86kOEelpd7H7-oKJE942bRJHEn-I")
-    MONGO_URL = "mongodb+srv://moni:moni@cluster0.bsscl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    MONGO_URL = "mongodb+srv://moni:<db_password>@cluster0.cei6n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     START_PIC = "https://telegra.ph/file/0eba143d65f9413f9ae04.jpg"
     SUDOERS = filters.user(["5444362033"])
